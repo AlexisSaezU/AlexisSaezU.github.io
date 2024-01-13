@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-01-05
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+My first PhD paper just published! <a href="https://doi.org/10.1016/j.jmps.2021.104754">Link</a>
+
