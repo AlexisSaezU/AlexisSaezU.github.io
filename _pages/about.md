@@ -19,6 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I am a doctoral candidate at the École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. I have wide interests ranging from the mechanics of friction and fractures in geomaterials to the physics of earthquakes and faulting. Currently, I'm focused on understanding coupled hydro-mechanical processes in faults and fractured rocks. Generally, I use tools of theoretical and computational mechanics to understand the interplay between different physical processes involved in both natural and human-induced earthquakes.
-
-
+I am a doctoral candidate in Mechanics at the École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. During my PhD, I have been working on the mechanics of fluid-driven frictional ruptures and its applications to injection-induced seismicity. More recently, I have been working on the mechanics of slow earthquakes in subduction zones. Generally speaking, I use tools of theoretical and computational continuum (solid and fluid) mechanics to understand the interplay between different physical processes involved in both natural and human-induced earthquakes.
