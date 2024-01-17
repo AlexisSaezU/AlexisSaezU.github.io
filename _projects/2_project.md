@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post-injection seismicity due to aseismic slip
+title: Post-injection seismicity
 description:
 img:
 importance: 2
