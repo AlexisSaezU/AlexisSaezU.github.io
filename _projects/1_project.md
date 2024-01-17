@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Fluid-driven frictional ruptures
-description: On the mechanics of three-dimensional fluid-driven frictional ruptures
-img: assets/img/Snapshots.pdf
+title: Fluid-driven fault slip
+description:
+img:
 importance: 1
 category: work
 related_publications: true
