@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fluid-driven fault slip
+title: Mechanics of fluid-driven fault slip
 description:
 img:
 importance: 1
