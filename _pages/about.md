@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.epfl.ch/labs/gel/'>Geo-energy Lab, EPFL</a>. alexis.saez@epfl.ch
+subtitle: <a href='https://www.epfl.ch/labs/gel/'>Geo-energy Lab, EPFL</a>. Contact: alexis.saez@epfl.ch
 
 profile:
   align: right
