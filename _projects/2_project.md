@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Post-injection seismicity due to aseismic slip
-description: The signature of seismicity after injection stops
-img: assets/img/3.jpg
+description:
+img:
 importance: 2
 category: work
 giscus_comments: false
