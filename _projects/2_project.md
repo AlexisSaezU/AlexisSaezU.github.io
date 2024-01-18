@@ -8,7 +8,9 @@ category: work
 giscus_comments: false
 ---
 
-Post-injection-induced seismicity is ...
+Industrial subsurface fluid injections are often accompanied by micro-seismicity and, sometimes, by earthquakes of relatively large magnitude that pose a serious hazard in the geo-energy industry. Moreover, the possibility of triggering an earthquake does not go away after stopping the injection operations, as many times earthquakes keep happening for even months after the stop of fluid injections (e.g., the Denver earthquakes, Healy et al., 1968). Post-injection seismicity has indeed caused unfortunately the shutdown of important projects of Enhanced Geothermal Systems (EGS) around the world (e.g., the Pohang earthquake, Ellsworth et al., 2019), hampering the proliferation of this promising technology. 
+
+Understanding the physical mechanisms responsible for the triggering of post-injection-induced seismicity is therefore important to ...
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
