@@ -8,7 +8,9 @@ category: work
 related_publications: true
 ---
 
-The mechanics of...
+Fluid-driven frictional ruptures are important in a broad range of subsurface engineering technologies and natural earthquake-related phenomena. Some examples of subsurface operations where borehole fluid injections can induce frictional slip are deep geothermal energy, CO2 and hydrogen geological storage, and wastewater disposal from oil and gas production, among many others. On the other hand, natural phenomena such as seismic swarms, aftershock sequences, and slow earthquakes, are often associated with transients of pore-fluid pressure and fault slip. Motivated by the aforementioned applications and phenomena, I worked during my PhD on developing a fundamental mechanistic understanding of how pre-existing geological structural discontinuities such as fractures and faults slide due to the pressurization of pore fluids, in a three-dimensional configuration that can be used for quantitative comparisons with field observations and preliminary engineering designs. I will briefly summarize some of these contributions which came out a series of papers (Sáez et al., 2022; Sáez and Lecampion, 2023, 2024).
+
+Start with last JMPS paper...
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
