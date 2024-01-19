@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have successfully defended my doctoral thesis 🥳
+I successfully defended my doctoral thesis today! 🥳
