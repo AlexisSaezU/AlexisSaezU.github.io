@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I just started my 6-month research stay at ERI, the University of Tokyo!
+Today, I start my 6-month research stay at ERI, the University of Tokyo!
