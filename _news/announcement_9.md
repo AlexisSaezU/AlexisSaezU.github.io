@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I've joined the team of <a href='https://www.gps.caltech.edu/people/jean-philippe-avouac'>Prof. Jean-Philippe Avouac</a> at Caltech. Looking forward to new reserch adventures!
+Today, I have joined the team of <a href='https://www.gps.caltech.edu/people/jean-philippe-avouac'>Prof. Jean-Philippe Avouac</a> at Caltech. Looking forward to new reserch adventures!
