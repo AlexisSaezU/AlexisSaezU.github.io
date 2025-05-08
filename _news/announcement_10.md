@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-06
+date: 2025-05-08
 inline: true
 related_posts: false
 ---
 
-New pre-print of my PhD work! Interested in how big injection-induced slow slip events can be? <a href="https://arxiv.org/abs/2409.03330">Link</a>
+New PhD paper! Interested in how big injection-induced slow slip events can be? Check our recently published paper in Sciences Advances: <a href="https://www.science.org/doi/10.1126/sciadv.adq0662">Link</a>. We elaborate on what physical factors control the the maximum size and moment magnitude of this class of events. We also discuss why quantifying this is important to better understand the seismic hazard posed by anthropogenic subsurface fluid injections in the geo-energy industry.
