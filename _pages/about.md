@@ -25,11 +25,11 @@ During my PhD, I worked primarily on fluid-driven frictional ruptures and their 
 - Fault segmentation patterns observed in historical and paleoseismic records along major plate-boundary faults
 - The timing of earthquake nucleation
 - The spatio-temporal dynamics of earthquake swarms
-- Slow earthquakes in subduction zones and their possible connection to fluid release from metamorphic dehydration reactions
-- Fluid transport and fault-slip processes in faults that lose fluid to their surroundings
+- Slow earthquakes in subduction zones and their connection to fluid release from metamorphic dehydration reactions
+- Fluid transport and fault-slip processes in faults that lose fluid to their surrounding, country rock
 
-Through collaborations, I also investigate: 
+Through collaborations, I also help to investigate: 
 - The role of elastic interactions within fault systems in generating the synchronization and alternation patterns observed in earthquake sequences in the geologic record
-- Mechanisms that may explain the presence of water in the middle crust of Mars
+- Hydrochemical processes that may explain the presence of water in the middle crust of Mars
 - Fault opening and shear slip induced by fluid injection
 - The factors controlling the maximum magnitude of reservoir-depletion-induced earthquakes, as well as earthquake triggering associated with mining and hydraulic fracturing operations
