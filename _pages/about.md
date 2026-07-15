@@ -19,13 +19,13 @@ social: true # includes social icons at the bottom of the page
 
 Welcome! I am a postdoctoral researcher in the Division of Geological and Planetary Sciences at Caltech, working with <a href='https://www.gps.caltech.edu/people/jean-philippe-avouac'>Prof. Jean-Philippe Avouac</a>. Before coming here, I obtained my PhD in Mechanics from the École Polytechnique Fédérale de Lausanne (EPFL), where I was advised by <a href='https://www.epfl.ch/labs/gel/'>Prof. Brice Lecampion</a>.
 
-Broadly speaking, my research aims to understand how faults respond to tectonic and anthropogenic forcing. I am particularly interested in simple yet fundamental questions: How do earthquakes start and stop? What determines whether a fault slips slowly or rapidly? And how do fluids influence fault slip and earthquake occurrence? Using tools from theoretical and computational continuum mechanics (solid and fluid) together with applied mathematics, I develop and test physics-based models to explain geophysical, geological, and laboratory observations. Through this approach, I seek to advance our understanding of fault behavior, earthquake processes, and the associated natural and human-induced hazards.
+Broadly speaking, my research aims to understand how faults respond to tectonic and anthropogenic forcing. I am particularly interested in simple yet fundamental questions: How do earthquakes start and stop? How do fluids influence fault slip and earthquake occurrence? Using tools from theoretical and computational continuum mechanics (solid and fluid) together with applied mathematics, I develop and test physics-based models to explain geophysical, geological, and laboratory observations. Through this approach, I seek to advance our understanding of fault behavior, earthquake processes, and the associated natural and human-induced hazards that affect our societies. 
 
 During my PhD, I worked primarily on fluid-driven frictional ruptures and their applications to injection-induced seismicity, a key challenge for the safe deployment of geo-energy technologies that are critical to the decarbonization of our energy systems, such as deep geothermal energy and geological CO₂ storage. While I continue to work on and collaborate in these areas, my current research focuses largely on other fundamental problems in earthquake science. In particular, I am investigating the physical mechanisms that control:
 - Fault segmentation patterns observed in historical and paleoseismic records along major plate-boundary faults
-- The timing of earthquake nucleation
 - The spatio-temporal dynamics of earthquake swarms
-- Slow earthquakes in subduction zones and their connection to fluid release from metamorphic dehydration reactions
+- Slow earthquakes in subduction zones and their possible connection to metamorphic dehydration reactions
+- The timing of earthquake nucleation
 - Fluid transport and fault-slip processes in faults that lose fluid to their surrounding, country rock
 
 Through collaborations, I also help to investigate: 
