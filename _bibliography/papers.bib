@@ -19,8 +19,9 @@
 @phdthesis{Saez_2023,
 	abstract = {Fluid-driven frictional ruptures are important in a broad range of subsurface engineering technologies and natural earthquake-related phenomena. Some examples of subsurface operations where borehole fluid injections can induce frictional slip are deep geothermal energy, CO2 and hydrogen geological storage, and wastewater disposal from oil and gas production, among many others. On the other hand, natural phenomena such as seismic swarms, aftershock sequences, and slow earthquakes, are often associated with transients of pore-fluid pressure and fault slip. Motivated by the aforementioned applications and phenomena, this doctoral thesis aims to mechanistically understand how pre-existing geological structural discontinuities such as fractures and faults slide due to the pressurization of pore fluids, in a three-dimensional configuration that can be used for quantitative comparisons with field observations and preliminary engineering designs. We first develop a numerical solver for frictional slip and fault opening along pre-existing networks of discontinuities in 3D elastic media. We then examine a model with Coulomb's friction to reproduce the initiation, propagation, and arrest of fluid-driven stable frictional ruptures. We show that a dimensionless number containing information about the initial stress state of the fault and the intensity of the injection governs the dynamics and shape of the ruptures in all its stages. Next, we extend the model to account for a friction coefficient that weakens with slip. This results in a broader range of fault slip behaviors, from unconditionally stable slip to dynamic instabilities. We quantify the conditions controlling both the propagation of stable slip and the nucleation of earthquakes. It is shown that the Coulomb's friction model is both an early-time and late-time asymptotic solution of the more general slip-weakening model. After, we generalize some important fault rupture regimes to account for fairly arbitrary fluid injections. In particular, the connection between the expansion rate of the slipping surface and the history of injection volume rate is established. Using field observations, we then apply and explore the implications of our modeling results to injection-induced seismicity --a critical concern in the geo-energy industry. We show how the history of injection rate may control the migration patterns of micro-seismicity, and how these patterns may contain important information about in-situ conditions such as the fault stress state. Further, we elaborate on how post-injection pulses of stable slip can continue triggering seismicity due to stress-transfer effects, long after fluid injections stop. Finally, we propose a theoretical scaling relation for the maximum magnitude of injection-induced slow slip events, which sheds light on how aseismic motions release potential energy during injection operations. This doctoral research offers for the first time a quantitative and conceptual framework for understanding various subsurface and earthquake-science problems associated with frictional ruptures induced by fluid injections. While some implications of our findings are already explored in detail here, this work opens the possibility of understanding a much broader range of field observations. Moreover, our research paves the way for designing laboratory experiments, which is the next step to ground the theory we develop.},
 	author = {Alexis S{\'a}ez},
-	title = {Three-dimensional fluid-driven frictional ruptures: theory and applications}, 
-	publisher = {EPFL}, 
+	title = {Three-dimensional fluid-driven frictional ruptures: theory and applications},
+	school = {École Polytechnique Fédérale de Lausanne (EPFL)},
+	publisher = {EPFL},
 	address = {Lausanne, Switzerland},
 	html = {https://doi.org/10.5075/epfl-thesis-10303},
 	pdf = {https://doi.org/10.5075/epfl-thesis-10303},
@@ -90,3 +91,41 @@
 	year = {2025},
 	html = {https://www.science.org/doi/10.1126/sciadv.adq0662},
 	preview={Fig5.pdf}}
+
+@article{Lecampion_Brisson_2027,
+	abstract = {We present an implicit, fully-coupled hydro-mechanical solver for the three-dimensional simulation of fluid-driven rupture propagation along pre-existing discontinuities. The solver simultaneously handles frictional slip and tensile failure along arbitrary intersecting fractures and faults in a linearly elastic and impermeable rock matrix. Spatial discretization combines a displacement discontinuity boundary element method with a Galerkin finite element method for pore-fluid pressure diffusion. Frictional and tensile failure are governed by a poro-elastoplastic interface law incorporating slip-weakening friction, dilatancy, and tensile strength degradation. Block preconditioning of the coupled tangent system ensures robustness across a wide range of fracture behaviors, including friction and tensile hydraulic failure. Solver accuracy is verified -- for the first time -- against a comprehensive suite of semi-analytical rupture propagation solutions of increasing complexity: fluid-driven frictional ruptures, dilatant ruptures with permeability changes, and penny-shaped hydraulic fractures spanning the viscosity-to-toughness transition. Two multi-fracture examples further demonstrate the solver's capabilities: injection into intersecting fractures, and a hydraulic fracture intersecting a strike-slip fault. These highlight the ability of the algorithm to capture frictional slip, dilatancy, permeability evolution, and tensile opening within a unified framework, making it well suited for fluid-driven rupture simulation in faulted and fractured rocks.},
+	author = {Lecampion, Brice and Brisson, Sylvain and Sarma, Antareep and Gupta, Ankit and S{\'a}ez, Alexis and Fakhretdinova, Regina},
+	doi = {https://doi.org/10.1016/j.cma.2026.119348},
+	issn = {0045-7825},
+	journal = {Computer Methods in Applied Mechanics and Engineering},
+	keywords = {Geomechanics, Hydraulic stimulation, Fractured rocks, Fracture, Multi-physics, Non-linear permeability changes},
+	pages = {119348},
+	title = {Three dimensional simulation of fluid-driven frictional and tensile ruptures on existing discontinuities},
+	url = {https://www.sciencedirect.com/science/article/pii/S0045782526006213},
+	volume = {463},
+	year = {2027},
+	html = {https://doi.org/10.1016/j.cma.2026.119348}}
+
+@unpublished{RodriguezPadilla_Saez_2026,
+	author = {Rodriguez-Padilla, A. and S{\'a}ez, A. and Avouac, J.-P.},
+	title = {Earthquake sequence synchronization and alternation driven by quasistatic elastic interactions across faults},
+	note = {Under review in Journal of Geophysical Research: Solid Earth},
+	year = {2026}}
+
+@unpublished{Shi_Saez_2026,
+	author = {Shi, Q. and S{\'a}ez, A. and Li, L. and Im, K. and Bourne, S. and van Elk, J. and Avouac, J.-P.},
+	title = {Conditions for run-away ruptures during reservoir operations, implication for the magnitude-frequency distribution of induced earthquakes and application to Groningen},
+	note = {Under review in Proceedings of the National Academy of Sciences of the United States of America},
+	year = {2026}}
+
+@unpublished{HernandezMontenegro_Saez_2026,
+	author = {Hern{\'a}ndez-Montenegro, J. and S{\'a}ez, A. and Dong, J. and Asimow, P.},
+	title = {Recent magmatism sustains liquid water in a rapidly sealing Martian crust},
+	note = {Under review in Nature},
+	year = {2026}}
+
+@unpublished{Marty_Avouac_2026,
+	author = {Marty, S. and Avouac, J.-P. and Curry, W. and S{\'a}ez, A. and da Silva, J.},
+	title = {Earthquakes induced by hydraulic fracturing, a semi-analytical model with application to the Permian Basin},
+	note = {Under review in Journal of Geophysical Research: Solid Earth},
+	year = {2026}}
