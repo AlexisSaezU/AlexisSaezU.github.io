@@ -637,6 +637,7 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
+  counter-reset: bibliography-counter;
 
   h1 {
     color: var(--global-theme-color);
@@ -670,6 +671,16 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
+      counter-increment: bibliography-counter;
+
+      .pub-number {
+        font-weight: bolder;
+        color: var(--global-theme-color);
+
+        &::before {
+          content: counter(bibliography-counter) ".";
+        }
+      }
 
       .preview {
         width: 100%;

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: <a href='https://www.gps.caltech.edu'>GPS Division, Caltech</a>. saez@caltech.edu
 
@@ -9,11 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 313, North Mudd Building, Pasadena, CA 91125</p>
+    <p>Office 270, South Mudd Building, Pasadena, CA 91125</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
