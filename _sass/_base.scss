@@ -183,6 +183,7 @@ blockquote {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    font-size: 0.85rem;
 
     p {
       display: inline-block;
@@ -675,7 +676,7 @@ footer.sticky-bottom {
 
       .pub-number {
         font-weight: bolder;
-        color: var(--global-theme-color);
+        color: black;
 
         &::before {
           content: counter(bibliography-counter) ".";
