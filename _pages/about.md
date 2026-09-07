@@ -33,4 +33,4 @@ Through collaborations, I also help to investigate:
 - Fault opening and slip induced by pore-fluid pressure transients
 - The factors controlling the maximum magnitude of reservoir-depletion-induced earthquakes
 - Earthquake triggering associated with mining and hydraulic fracturing operations
-- And beyond the Earth, hydrochemical processes that may explain the possible presence of water in the middle crust of Mars
+- And beyond Earth, hydrochemical processes that may explain the possible presence of water in the middle crust of Mars
